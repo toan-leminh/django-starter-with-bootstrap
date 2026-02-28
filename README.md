@@ -3,18 +3,18 @@ A production-ready Django starter template designed for learning, rapid developm
 
 This project provides a clean architecture, Dockerized environment, MySQL integration, Redis support, and a modular app structure
 
-# Tech Stacks
+## Tech Stacks
 - Framework: Python Django
 - Frontend: HTMX + Bootstrap 
 - Database: MySQL
 - Cache / Queue Ready: Redis
 - Containerized with: Docker
 
-# Purpose
+## Purpose
 - Learning Django in structured way
 - Building production-ready system
 
-# Project Structure
+## Project Structure
 ```
 django-starter/
 │
@@ -28,7 +28,7 @@ django-starter/
 ├── requirements.txt # Library management
 └── manage.py
 ```
-# Features
+## Features
 ### Core 
 - [ ] User authentication
 - [ ] Admin authentication
@@ -42,7 +42,7 @@ django-starter/
 - [ ] Basic unit test structure
 - [ ] Example test cases
 
-# Setup 
+## Setup 
 To manually create a virtualenv on MacOS and Linux:
 
 ```
