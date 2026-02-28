@@ -15,6 +15,7 @@ This project provides a clean architecture, Dockerized environment, MySQL integr
 - Building production-ready system
 
 # Project Structure
+```
 django-starter/
 │
 ├── app/        # Configuration (settings, urls, wsgi, asgi)
@@ -26,6 +27,7 @@ django-starter/
     ├── docker-compose.yml
 ├── requirements.txt # Library management
 └── manage.py
+```
 
 # Setup 
 To manually create a virtualenv on MacOS and Linux:
