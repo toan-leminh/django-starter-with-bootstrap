@@ -29,16 +29,16 @@ django-starter/
 └── manage.py
 ```
 # Features
-## Core 
+### Core 
 - [ ] User authentication
 - [ ] Admin authentication
 - [ ] Docker composer setup (Redis, MySQL)
 
-# API Layer
+### API Layer
 - [ ] REST API authentication
 - [ ] Sample endpoints
 
-# Testing
+### Testing
 - [ ] Basic unit test structure
 - [ ] Example test cases
 
