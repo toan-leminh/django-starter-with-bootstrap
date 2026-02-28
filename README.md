@@ -3,7 +3,7 @@ A production-ready Django starter template designed for learning, rapid developm
 
 This project provides a clean architecture, Dockerized environment, MySQL integration, Redis support, and a modular app structure
 
-# Features
+# Tech Stacks
 - Framework: Python Django
 - Frontend: HTMX + Bootstrap 
 - Database: MySQL
