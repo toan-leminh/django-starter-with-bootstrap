@@ -33,6 +33,8 @@ django-starter/
 - [ ] User authentication
 - [ ] Admin authentication
 - [ ] Docker composer setup (Redis, MySQL)
+- [ ] User sample pages
+- [ ] Admin sample pages
 
 ### API Layer
 - [ ] REST API authentication
