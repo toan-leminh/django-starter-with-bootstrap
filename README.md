@@ -28,6 +28,19 @@ django-starter/
 ├── requirements.txt # Library management
 └── manage.py
 ```
+# Features
+## Core 
+- [ ] User authentication
+- [ ] Admin authentication
+- [ ] Docker composer setup (Redis, MySQL)
+
+# API Layer
+- [ ] REST API authentication
+- [ ] Sample endpoints
+
+# Testing
+- [ ] Basic unit test structure
+- [ ] Example test cases
 
 # Setup 
 To manually create a virtualenv on MacOS and Linux:
